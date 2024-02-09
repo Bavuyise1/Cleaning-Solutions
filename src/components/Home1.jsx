@@ -32,7 +32,7 @@ const Hero = () => {
           <img src={image3} alt="Slide 3" />
         </div>
       </Slider>
-      <h1 className='ff'>We Clean Your <br /> Place At Best</h1>
+      {/* <h1 className='ff'>We Clean Your <br /> Place At Best</h1> */}
     </div>
   );
 };

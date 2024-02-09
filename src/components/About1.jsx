@@ -16,7 +16,7 @@ const About = () => {
         <div className="content">
           <h2>Satisfaction Guarantee</h2>
           <p>
-            Cleaning Solutions have more is an upcoming service provider that deals in all kinds of project.
+            Cleaning Solutions is an upcoming service provider that deals in all kinds of project.
           </p>
         </div>
       </section>
@@ -25,7 +25,7 @@ const About = () => {
         <div className="content">
           <h2>We take good care of our clients</h2>
           <p>
-            Your needs are at the heart of Cleaning Solutons and finding the best possible way to satisfy those needs.
+            Your needs are at the heart of Cleaning Solutions and finding the best possible way to satisfy those needs.
           </p>
         </div>
       </section>
@@ -34,7 +34,7 @@ const About = () => {
         <div className="content">
           <h2>We are equal</h2>
           <p>
-            We provide our customers a level of service unequalled in the cleaning industry.
+            We provide our customers a level of service equally in the cleaning industry.
           </p>
         </div>
       </section>

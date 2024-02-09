@@ -99,13 +99,13 @@ body {
   width: 100%;
   position: relative;
 }
-.hero h1{
+/* .hero h1{
   color: white;
   position: absolute;
   top: 10px ;
   font-size: 100px;
   left: 50px ;
-}
+} */
 .slider-container {
   width: 80%;
   margin: 0 auto;
@@ -139,9 +139,9 @@ body {
   .slider-container {
     width: 100%;
   }
-  h1.ff{
+  /* h1.ff{
     font-size: 2rem;
-  }
+  } */
 }
 
 
